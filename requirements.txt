@@ -6,6 +6,5 @@ seaborn
 pandas_profiling 
 ipywidgets
 torch
-torchsummary
 sklearn
 neptune-client
